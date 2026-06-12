@@ -1,7 +1,5 @@
 # Leetcode Companywise Interview Questions
 
-![leetcode-companywise-interview-questions](https://socialify.git.ci/snehasishroy/leetcode-companywise-interview-questions/image?description=1&font=JetBrains+Mono&forks=1&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark)
-
 This repository contains Company Wise Questions of LeetCode, categorized based on their recency.
 
 * Last 30 Days
